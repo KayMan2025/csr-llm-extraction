@@ -1,0 +1,3 @@
+This phase II randomized, double-blind, placebo-controlled clinical trial evaluated Drug X in adults with moderate to severe ulcerative colitis. A total of 120 patients were randomized 1:1 to receive Drug X 100 mg once daily or placebo for 12 weeks. The primary endpoint was clinical remission at week 12 based on the Mayo score. Key secondary endpoints included endoscopic improvement and mucosal healing.
+
+The trial was sponsored by Example Pharma and conducted at 20 sites in the United States and Europe. Clinical remission at week 12 was achieved in 45% of patients in the Drug X group compared with 20% in the placebo group. The rate of serious adverse events was similar between arms, though mild to moderate headache and nausea were more common with Drug X.

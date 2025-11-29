@@ -18,7 +18,7 @@ This is a portfolio project created to showcase skills relevant to roles such as
 
 
 
-🚀 What This Tool Does
+🚀 **What This Tool Does**
 
 
 
@@ -142,7 +142,7 @@ Internal medical review
 
 
 
-🧠 Example Output
+🧠 **Example Output**
 
 {
 
@@ -182,7 +182,7 @@ Internal medical review
 
 
 
-🏗️ Project Architecture
+🏗️ **Project Architecture**
 
 csr\_project/
 
@@ -216,7 +216,7 @@ csr\_project/
 
 
 
-⚙️ Tech Stack
+⚙️ **Tech Stack**
 
 Component	Details
 
@@ -236,7 +236,7 @@ This stack closely matches real AI/ML workflows used in biotech and pharma.
 
 
 
-🔧 Installation
+🔧 **Installation**
 
 1\. Clone the repo
 
@@ -274,7 +274,7 @@ GROQ\_API\_KEY=your-groq-key-here
 
 
 
-▶️ Run the Tool
+▶️ **Run the Tool**
 
 python -m src.main --input data\\sample\_csr.txt
 
@@ -286,7 +286,7 @@ Produces combined structured + summarized output to the terminal.
 
 
 
-🎯 Goals of This Project
+🎯 **Goals of This Project**
 
 
 
@@ -330,7 +330,7 @@ data standardization
 
 
 
-📌 Next Extensions (optional future improvements)
+📌 **Next Extensions (optional future improvements)**
 
 
 

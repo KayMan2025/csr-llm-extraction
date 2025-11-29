@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Model](https://img.shields.io/badge/LLM-Groq%20LLaMA%203.1%208B-informational)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 📄 **Clinical Study Report (CSR) LLM Extraction \& Summarization**
 
 Python + Groq LLaMA 3.1 | End-to-End Data Extraction Pipeline
@@ -348,7 +354,7 @@ Add evaluation metrics (BLEU, RougeL, JSON correctness)
 
 
 
-📫 Contact
+📫 **Contact**
 
 
 
